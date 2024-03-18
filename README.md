@@ -1,4 +1,4 @@
-# Copy Trading with Block Explorers
+# Copy Trading with Block Explorers - In progress
 
 The Copy Trading with Block Explorers project aims to transform the landscape of social trading by integrating blockchain technology and block explorers to create a transparent, secure, and user-friendly platform for copy trading. In traditional copy trading, investors replicate the trades of expert traders, hoping to achieve similar returns. However, existing platforms often lack transparency, exposing investors to risks such as fraudulent trading activity, hidden fees, and lack of accountability.
 
