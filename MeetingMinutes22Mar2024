@@ -1,0 +1,26 @@
+This can be our first meeting agenda. 
+ 
+1.Trading 
+a. what constitute to a good trade? 
+b. what profit rate and win rate? (backdate from previous trade?) - huge database 
+c. according to value in wallet or % for profit rate/win rate? 
+d. on big cap coins or meme coins? 
+e. how to detect a pump and dump? Join existing pump & dump group? 
+f. On which network? Layer2 or cheap layer 1? useful for small accounts 
+g. Will there be indicators and candle stick charts? 
+ 
+2. Database 
+a. stored on mongodb? on atlas provided on mongodb?  
+b. might limited on free usage unless self host. database record of WALLET and their whole TRADES and COINS 
+c. copy trade hosts' trade recorded on db or pull from chain explorer? 
+ 
+3. Features 
+a. wholesale copy trade? or alert to join a trade? 
+b. can modify a copy trade? 
+c. possible to consolidate trade to have cheaper fee? - might have delay 
+d. possible to detect arbitrage trade? arbitrage window is small 
+e. add in flash loan to a copy trade? 
+ 
+4. Hosting 
+a. self or cloud provider? 
+b. any authentication page?
